@@ -2,4 +2,8 @@
 Thumbs.db
 .env
 *.token
+*.bak
 .vscode/
+__pycache__/
+_*.py
+optimize_site.py
